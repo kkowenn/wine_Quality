@@ -1,1 +1,2 @@
-# week8
+# AI concept assignment
+อยากอวดเฉยๆ
