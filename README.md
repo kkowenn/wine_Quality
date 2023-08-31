@@ -1,2 +1,2 @@
-# AI concept assignment
+# AI
 อยากอวดเฉยๆ
